@@ -1,0 +1,501 @@
+Order Date,Product,Category,Region,Customer Name,Quantity,Sales
+2024-01-01 00:00:00.000000,Desk Lamp,Furniture,East,Customer 6191,4,244.74
+2024-01-01 17:33:18.396793,Desk Lamp,Furniture,East,Customer 6578,2,75.13
+2024-01-02 11:06:36.793587,Mechanical Keyboard,Accessories,Central,Customer 1769,3,281.99
+2024-01-03 04:39:55.190380,Monitor Arm,Furniture,West,Customer 7420,2,307.05
+2024-01-03 22:13:13.587174,Laptop Stand,Furniture,North,Customer 9666,5,230.03
+2024-01-04 15:46:31.983967,Laptop Stand,Furniture,East,Customer 2899,4,180.51
+2024-01-05 09:19:50.380761,Noise Cancelling Headphones,Electronics,Central,Customer 4890,1,36.26
+2024-01-06 02:53:08.777555,Wireless Mouse,Accessories,North,Customer 9433,2,87.94
+2024-01-06 20:26:27.174348,Laptop Stand,Furniture,West,Customer 7235,5,123.5
+2024-01-07 13:59:45.571142,Desk Lamp,Furniture,East,Customer 4152,4,228.42
+2024-01-08 07:33:03.967935,Noise Cancelling Headphones,Electronics,South,Customer 4843,4,93.7
+2024-01-09 01:06:22.364729,Desk Lamp,Furniture,West,Customer 1161,2,48.95
+2024-01-09 18:39:40.761523,Mechanical Keyboard,Accessories,Central,Customer 7863,4,62.97
+2024-01-10 12:12:59.158316,Desk Lamp,Furniture,South,Customer 5859,5,766.06
+2024-01-11 05:46:17.555110,Webcam HD,Electronics,Central,Customer 1064,1,54.19
+2024-01-11 23:19:35.951903,Wireless Mouse,Accessories,East,Customer 6618,1,46.86
+2024-01-12 16:52:54.348697,USB-C Hub,Accessories,East,Customer 6892,3,48.84
+2024-01-13 10:26:12.745490,Laptop Stand,Furniture,North,Customer 4104,1,41.07
+2024-01-14 03:59:31.142284,Desk Lamp,Furniture,West,Customer 9154,5,177.14
+2024-01-14 21:32:49.539078,USB-C Hub,Accessories,East,Customer 4840,5,626.61
+2024-01-15 15:06:07.935871,Desk Lamp,Furniture,South,Customer 8721,3,44.45
+2024-01-16 08:39:26.332665,USB-C Hub,Accessories,Central,Customer 7019,1,48.67
+2024-01-17 02:12:44.729458,Desk Lamp,Furniture,East,Customer 5636,5,567.46
+2024-01-17 19:46:03.126252,Noise Cancelling Headphones,Electronics,West,Customer 3693,3,104.09
+2024-01-18 13:19:21.523046,Mechanical Keyboard,Accessories,East,Customer 2663,4,191.07
+2024-01-19 06:52:39.919839,Mechanical Keyboard,Accessories,North,Customer 2306,1,118.25
+2024-01-20 00:25:58.316633,Mechanical Keyboard,Accessories,East,Customer 8526,5,69.97
+2024-01-20 17:59:16.713426,USB-C Hub,Accessories,Central,Customer 1663,1,97.97
+2024-01-21 11:32:35.110220,Monitor Arm,Furniture,North,Customer 2853,1,49.25
+2024-01-22 05:05:53.507014,Mechanical Keyboard,Accessories,South,Customer 8554,4,345.66
+2024-01-22 22:39:11.903807,Wireless Mouse,Accessories,North,Customer 5737,1,34.38
+2024-01-23 16:12:30.300601,Desk Lamp,Furniture,North,Customer 7528,5,710.93
+2024-01-24 09:45:48.697394,Laptop Stand,Furniture,South,Customer 6791,5,227.38
+2024-01-25 03:19:07.094188,Desk Lamp,Furniture,East,Customer 5218,4,455.25
+2024-01-25 20:52:25.490981,Monitor Arm,Furniture,South,Customer 1197,5,220.45
+2024-01-26 14:25:43.887775,Desk Lamp,Furniture,West,Customer 5282,1,14.06
+2024-01-27 07:59:02.284569,Webcam HD,Electronics,West,Customer 8098,3,127.45
+2024-01-28 01:32:20.681362,Laptop Stand,Furniture,East,Customer 3911,3,330.92
+2024-01-28 19:05:39.078156,Wireless Mouse,Accessories,South,Customer 5736,1,155.27
+2024-01-29 12:38:57.474949,Wireless Mouse,Accessories,South,Customer 1262,1,25.8
+2024-01-30 06:12:15.871743,Laptop Stand,Furniture,West,Customer 3049,1,49.47
+2024-01-30 23:45:34.268537,Monitor Arm,Furniture,Central,Customer 8158,4,232.27
+2024-01-31 17:18:52.665330,USB-C Hub,Accessories,East,Customer 5499,3,484.84
+2024-02-01 10:52:11.062124,Noise Cancelling Headphones,Electronics,West,Customer 2648,1,139.85
+2024-02-02 04:25:29.458917,Monitor Arm,Furniture,East,Customer 3557,4,391.69
+2024-02-02 21:58:47.855711,Wireless Mouse,Accessories,South,Customer 3869,5,123.71
+2024-02-03 15:32:06.252505,Webcam HD,Electronics,North,Customer 6699,1,42.64
+2024-02-04 09:05:24.649298,Webcam HD,Electronics,East,Customer 5496,4,576.97
+2024-02-05 02:38:43.046092,Noise Cancelling Headphones,Electronics,East,Customer 4446,4,133.01
+2024-02-05 20:12:01.442885,Monitor Arm,Furniture,East,Customer 1225,5,169.75
+2024-02-06 13:45:19.839679,Wireless Mouse,Accessories,North,Customer 8996,4,479.92
+2024-02-07 07:18:38.236472,Mechanical Keyboard,Accessories,North,Customer 8679,3,420.94
+2024-02-08 00:51:56.633266,Mechanical Keyboard,Accessories,Central,Customer 2060,5,488.55
+2024-02-08 18:25:15.030060,Wireless Mouse,Accessories,East,Customer 1699,5,642.36
+2024-02-09 11:58:33.426853,Desk Lamp,Furniture,North,Customer 4327,5,299.12
+2024-02-10 05:31:51.823647,Laptop Stand,Furniture,South,Customer 6442,1,25.35
+2024-02-10 23:05:10.220440,Noise Cancelling Headphones,Electronics,South,Customer 8806,2,301.1
+2024-02-11 16:38:28.617234,Laptop Stand,Furniture,North,Customer 8560,2,31.21
+2024-02-12 10:11:47.014028,Noise Cancelling Headphones,Electronics,South,Customer 6986,5,118.91
+2024-02-13 03:45:05.410821,Noise Cancelling Headphones,Electronics,South,Customer 3950,5,225.07
+2024-02-13 21:18:23.807615,Webcam HD,Electronics,West,Customer 7002,4,58.06
+2024-02-14 14:51:42.204408,Mechanical Keyboard,Accessories,East,Customer 4769,2,50.43
+2024-02-15 08:25:00.601202,Webcam HD,Electronics,North,Customer 5777,2,53.23
+2024-02-16 01:58:18.997995,Monitor Arm,Furniture,Central,Customer 4124,3,128.83
+2024-02-16 19:31:37.394789,Mechanical Keyboard,Accessories,West,Customer 5869,5,546.2
+2024-02-17 13:04:55.791583,Mechanical Keyboard,Accessories,West,Customer 7799,3,394.26
+2024-02-18 06:38:14.188376,Mechanical Keyboard,Accessories,East,Customer 5752,2,176.36
+2024-02-19 00:11:32.585170,USB-C Hub,Accessories,South,Customer 9932,4,93.69
+2024-02-19 17:44:50.981963,Monitor Arm,Furniture,Central,Customer 2664,1,42.06
+2024-02-20 11:18:09.378757,Wireless Mouse,Accessories,North,Customer 8404,2,286.8
+2024-02-21 04:51:27.775551,Noise Cancelling Headphones,Electronics,Central,Customer 8004,5,590.35
+2024-02-21 22:24:46.172344,Mechanical Keyboard,Accessories,East,Customer 8253,2,270.86
+2024-02-22 15:58:04.569138,Monitor Arm,Furniture,North,Customer 3141,4,257.06
+2024-02-23 09:31:22.965931,Mechanical Keyboard,Accessories,South,Customer 7617,5,224.62
+2024-02-24 03:04:41.362725,Desk Lamp,Furniture,Central,Customer 6881,4,61.39
+2024-02-24 20:37:59.759519,Webcam HD,Electronics,West,Customer 8390,4,90.31
+2024-02-25 14:11:18.156312,USB-C Hub,Accessories,North,Customer 5611,2,306.95
+2024-02-26 07:44:36.553106,Noise Cancelling Headphones,Electronics,West,Customer 7303,2,32.64
+2024-02-27 01:17:54.949899,Noise Cancelling Headphones,Electronics,East,Customer 3427,4,92.57
+2024-02-27 18:51:13.346693,Webcam HD,Electronics,Central,Customer 6387,3,102.61
+2024-02-28 12:24:31.743486,Wireless Mouse,Accessories,West,Customer 5380,2,63.97
+2024-02-29 05:57:50.140280,Desk Lamp,Furniture,East,Customer 9945,2,124.39
+2024-02-29 23:31:08.537074,Wireless Mouse,Accessories,Central,Customer 1417,2,285.64
+2024-03-01 17:04:26.933867,Desk Lamp,Furniture,Central,Customer 6745,4,102.58
+2024-03-02 10:37:45.330661,Webcam HD,Electronics,Central,Customer 8164,4,57.38
+2024-03-03 04:11:03.727454,Laptop Stand,Furniture,East,Customer 2122,5,73.69
+2024-03-03 21:44:22.124248,Laptop Stand,Furniture,Central,Customer 4440,1,124.32
+2024-03-04 15:17:40.521042,Desk Lamp,Furniture,North,Customer 6917,1,37.82
+2024-03-05 08:50:58.917835,Monitor Arm,Furniture,North,Customer 2365,4,575.72
+2024-03-06 02:24:17.314629,USB-C Hub,Accessories,West,Customer 8400,1,48.12
+2024-03-06 19:57:35.711422,Wireless Mouse,Accessories,West,Customer 5946,4,359.5
+2024-03-07 13:30:54.108216,Noise Cancelling Headphones,Electronics,East,Customer 5491,5,289.72
+2024-03-08 07:04:12.505010,USB-C Hub,Accessories,Central,Customer 2167,5,238.03
+2024-03-09 00:37:30.901803,Webcam HD,Electronics,South,Customer 7541,5,126.24
+2024-03-09 18:10:49.298597,Webcam HD,Electronics,Central,Customer 5330,3,374.82
+2024-03-10 11:44:07.695390,Desk Lamp,Furniture,South,Customer 1953,4,61.42
+2024-03-11 05:17:26.092184,Webcam HD,Electronics,South,Customer 7938,5,780.94
+2024-03-11 22:50:44.488977,Webcam HD,Electronics,East,Customer 2365,5,318.77
+2024-03-12 16:24:02.885771,Desk Lamp,Furniture,West,Customer 4141,1,62.5
+2024-03-13 09:57:21.282565,USB-C Hub,Accessories,East,Customer 9905,5,243.29
+2024-03-14 03:30:39.679358,Desk Lamp,Furniture,Central,Customer 5849,3,178.87
+2024-03-14 21:03:58.076152,Laptop Stand,Furniture,Central,Customer 4072,4,186.52
+2024-03-15 14:37:16.472945,Mechanical Keyboard,Accessories,West,Customer 8576,1,128.85
+2024-03-16 08:10:34.869739,Monitor Arm,Furniture,South,Customer 4627,5,493.01
+2024-03-17 01:43:53.266533,Webcam HD,Electronics,Central,Customer 5175,5,603.32
+2024-03-17 19:17:11.663326,USB-C Hub,Accessories,West,Customer 7190,4,246.21
+2024-03-18 12:50:30.060120,Monitor Arm,Furniture,East,Customer 3703,1,62.85
+2024-03-19 06:23:48.456913,USB-C Hub,Accessories,West,Customer 8575,4,102.4
+2024-03-19 23:57:06.853707,Noise Cancelling Headphones,Electronics,West,Customer 4719,2,87.36
+2024-03-20 17:30:25.250501,Laptop Stand,Furniture,Central,Customer 5835,4,197.5
+2024-03-21 11:03:43.647294,Monitor Arm,Furniture,North,Customer 7132,1,15.94
+2024-03-22 04:37:02.044088,Mechanical Keyboard,Accessories,East,Customer 4324,5,326.43
+2024-03-22 22:10:20.440881,USB-C Hub,Accessories,North,Customer 1009,5,651.93
+2024-03-23 15:43:38.837675,Laptop Stand,Furniture,Central,Customer 2015,3,175.55
+2024-03-24 09:16:57.234468,Wireless Mouse,Accessories,North,Customer 8449,2,292.85
+2024-03-25 02:50:15.631262,Monitor Arm,Furniture,North,Customer 5000,3,104.34
+2024-03-25 20:23:34.028056,USB-C Hub,Accessories,West,Customer 3000,1,60.41
+2024-03-26 13:56:52.424849,Webcam HD,Electronics,Central,Customer 4636,3,196.01
+2024-03-27 07:30:10.821643,Laptop Stand,Furniture,Central,Customer 8245,3,42.35
+2024-03-28 01:03:29.218436,Wireless Mouse,Accessories,Central,Customer 8939,3,170.23
+2024-03-28 18:36:47.615230,Wireless Mouse,Accessories,South,Customer 1249,2,90.37
+2024-03-29 12:10:06.012024,Monitor Arm,Furniture,South,Customer 5363,3,111.64
+2024-03-30 05:43:24.408817,Mechanical Keyboard,Accessories,East,Customer 7544,5,417.06
+2024-03-30 23:16:42.805611,Desk Lamp,Furniture,South,Customer 5530,5,324.19
+2024-03-31 16:50:01.202404,Noise Cancelling Headphones,Electronics,South,Customer 7241,4,102.73
+2024-04-01 10:23:19.599198,Desk Lamp,Furniture,South,Customer 2331,3,106.0
+2024-04-02 03:56:37.995991,Wireless Mouse,Accessories,South,Customer 8730,4,374.23
+2024-04-02 21:29:56.392785,Webcam HD,Electronics,North,Customer 6449,4,105.38
+2024-04-03 15:03:14.789579,Mechanical Keyboard,Accessories,Central,Customer 6569,5,120.72
+2024-04-04 08:36:33.186372,USB-C Hub,Accessories,East,Customer 2906,3,453.35
+2024-04-05 02:09:51.583166,Desk Lamp,Furniture,West,Customer 9472,3,291.43
+2024-04-05 19:43:09.979959,USB-C Hub,Accessories,South,Customer 7777,3,170.06
+2024-04-06 13:16:28.376753,Webcam HD,Electronics,West,Customer 5777,5,116.93
+2024-04-07 06:49:46.773547,Webcam HD,Electronics,North,Customer 1523,1,56.48
+2024-04-08 00:23:05.170340,Laptop Stand,Furniture,South,Customer 8240,1,82.66
+2024-04-08 17:56:23.567134,Desk Lamp,Furniture,East,Customer 3878,1,87.79
+2024-04-09 11:29:41.963927,Wireless Mouse,Accessories,North,Customer 2276,2,98.75
+2024-04-10 05:03:00.360721,Desk Lamp,Furniture,South,Customer 1364,2,82.12
+2024-04-10 22:36:18.757515,USB-C Hub,Accessories,East,Customer 2646,3,384.8
+2024-04-11 16:09:37.154308,USB-C Hub,Accessories,South,Customer 8673,4,233.0
+2024-04-12 09:42:55.551102,USB-C Hub,Accessories,Central,Customer 9905,1,121.54
+2024-04-13 03:16:13.947895,Wireless Mouse,Accessories,West,Customer 5632,2,194.06
+2024-04-13 20:49:32.344689,Mechanical Keyboard,Accessories,South,Customer 9258,1,46.34
+2024-04-14 14:22:50.741482,Laptop Stand,Furniture,South,Customer 8943,4,488.31
+2024-04-15 07:56:09.138276,Mechanical Keyboard,Accessories,North,Customer 3739,3,77.19
+2024-04-16 01:29:27.535070,Laptop Stand,Furniture,East,Customer 1876,3,434.73
+2024-04-16 19:02:45.931863,Wireless Mouse,Accessories,Central,Customer 2733,1,58.38
+2024-04-17 12:36:04.328657,Noise Cancelling Headphones,Electronics,East,Customer 4517,4,344.53
+2024-04-18 06:09:22.725450,Desk Lamp,Furniture,East,Customer 9434,1,108.44
+2024-04-18 23:42:41.122244,Webcam HD,Electronics,South,Customer 9659,4,656.34
+2024-04-19 17:15:59.519038,Mechanical Keyboard,Accessories,East,Customer 6560,1,93.93
+2024-04-20 10:49:17.915831,USB-C Hub,Accessories,Central,Customer 7469,2,76.55
+2024-04-21 04:22:36.312625,Mechanical Keyboard,Accessories,North,Customer 5208,3,135.81
+2024-04-21 21:55:54.709418,Wireless Mouse,Accessories,Central,Customer 2917,2,167.56
+2024-04-22 15:29:13.106212,Mechanical Keyboard,Accessories,East,Customer 4744,5,170.42
+2024-04-23 09:02:31.503006,Noise Cancelling Headphones,Electronics,South,Customer 3219,2,112.84
+2024-04-24 02:35:49.899799,Noise Cancelling Headphones,Electronics,North,Customer 2342,2,93.27
+2024-04-24 20:09:08.296593,Wireless Mouse,Accessories,East,Customer 8984,1,37.46
+2024-04-25 13:42:26.693386,Mechanical Keyboard,Accessories,Central,Customer 9567,4,109.82
+2024-04-26 07:15:45.090180,Laptop Stand,Furniture,East,Customer 3560,4,146.75
+2024-04-27 00:49:03.486973,Monitor Arm,Furniture,Central,Customer 9007,4,639.35
+2024-04-27 18:22:21.883767,Webcam HD,Electronics,East,Customer 5820,4,337.42
+2024-04-28 11:55:40.280561,USB-C Hub,Accessories,South,Customer 5227,3,260.07
+2024-04-29 05:28:58.677354,Laptop Stand,Furniture,East,Customer 8804,1,24.01
+2024-04-29 23:02:17.074148,Desk Lamp,Furniture,North,Customer 2248,1,14.67
+2024-04-30 16:35:35.470941,Laptop Stand,Furniture,East,Customer 2970,5,739.73
+2024-05-01 10:08:53.867735,USB-C Hub,Accessories,South,Customer 6567,3,420.01
+2024-05-02 03:42:12.264529,Desk Lamp,Furniture,West,Customer 9669,5,80.91
+2024-05-02 21:15:30.661322,Mechanical Keyboard,Accessories,North,Customer 2120,5,468.63
+2024-05-03 14:48:49.058116,USB-C Hub,Accessories,West,Customer 3645,1,93.85
+2024-05-04 08:22:07.454909,Webcam HD,Electronics,North,Customer 7028,3,69.16
+2024-05-05 01:55:25.851703,Mechanical Keyboard,Accessories,West,Customer 8863,5,750.34
+2024-05-05 19:28:44.248496,Noise Cancelling Headphones,Electronics,West,Customer 3891,5,316.31
+2024-05-06 13:02:02.645290,USB-C Hub,Accessories,West,Customer 1793,3,99.79
+2024-05-07 06:35:21.042084,Webcam HD,Electronics,South,Customer 7166,4,138.94
+2024-05-08 00:08:39.438877,Monitor Arm,Furniture,South,Customer 8783,3,135.16
+2024-05-08 17:41:57.835671,Wireless Mouse,Accessories,West,Customer 4531,1,110.45
+2024-05-09 11:15:16.232464,Noise Cancelling Headphones,Electronics,Central,Customer 6959,4,247.27
+2024-05-10 04:48:34.629258,Wireless Mouse,Accessories,South,Customer 7024,4,472.72
+2024-05-10 22:21:53.026052,Webcam HD,Electronics,East,Customer 2792,1,83.04
+2024-05-11 15:55:11.422845,Webcam HD,Electronics,West,Customer 4030,2,195.15
+2024-05-12 09:28:29.819639,Desk Lamp,Furniture,Central,Customer 8112,3,471.98
+2024-05-13 03:01:48.216432,Laptop Stand,Furniture,Central,Customer 8970,4,58.78
+2024-05-13 20:35:06.613226,Wireless Mouse,Accessories,South,Customer 9070,2,67.86
+2024-05-14 14:08:25.010020,Laptop Stand,Furniture,East,Customer 5971,3,48.71
+2024-05-15 07:41:43.406813,Monitor Arm,Furniture,West,Customer 4572,1,129.96
+2024-05-16 01:15:01.803607,Wireless Mouse,Accessories,East,Customer 5757,5,566.41
+2024-05-16 18:48:20.200400,Laptop Stand,Furniture,North,Customer 4432,5,69.73
+2024-05-17 12:21:38.597194,Monitor Arm,Furniture,Central,Customer 7704,4,460.76
+2024-05-18 05:54:56.993987,Noise Cancelling Headphones,Electronics,East,Customer 9058,5,476.98
+2024-05-18 23:28:15.390781,Monitor Arm,Furniture,Central,Customer 9477,5,80.05
+2024-05-19 17:01:33.787575,USB-C Hub,Accessories,East,Customer 7645,2,29.64
+2024-05-20 10:34:52.184368,Laptop Stand,Furniture,West,Customer 7016,3,348.07
+2024-05-21 04:08:10.581162,Desk Lamp,Furniture,South,Customer 2481,3,485.77
+2024-05-21 21:41:28.977955,Laptop Stand,Furniture,West,Customer 4462,4,61.91
+2024-05-22 15:14:47.374749,Wireless Mouse,Accessories,East,Customer 9519,1,110.5
+2024-05-23 08:48:05.771543,Desk Lamp,Furniture,East,Customer 8776,5,176.99
+2024-05-24 02:21:24.168336,Noise Cancelling Headphones,Electronics,East,Customer 5547,2,76.22
+2024-05-24 19:54:42.565130,Monitor Arm,Furniture,South,Customer 7150,5,461.99
+2024-05-25 13:28:00.961923,Wireless Mouse,Accessories,Central,Customer 2308,5,172.25
+2024-05-26 07:01:19.358717,Laptop Stand,Furniture,Central,Customer 7035,1,116.06
+2024-05-27 00:34:37.755511,Desk Lamp,Furniture,West,Customer 2555,2,71.74
+2024-05-27 18:07:56.152304,Monitor Arm,Furniture,Central,Customer 8083,1,23.6
+2024-05-28 11:41:14.549098,Laptop Stand,Furniture,North,Customer 3679,4,658.24
+2024-05-29 05:14:32.945891,Desk Lamp,Furniture,East,Customer 3573,1,26.21
+2024-05-29 22:47:51.342685,Laptop Stand,Furniture,North,Customer 6877,5,77.18
+2024-05-30 16:21:09.739478,Monitor Arm,Furniture,South,Customer 9996,4,90.37
+2024-05-31 09:54:28.136272,Laptop Stand,Furniture,West,Customer 9232,5,119.35
+2024-06-01 03:27:46.533066,Wireless Mouse,Accessories,South,Customer 2622,5,69.1
+2024-06-01 21:01:04.929859,Monitor Arm,Furniture,North,Customer 1645,5,183.13
+2024-06-02 14:34:23.326653,Laptop Stand,Furniture,North,Customer 9646,4,243.52
+2024-06-03 08:07:41.723446,Wireless Mouse,Accessories,West,Customer 3681,2,118.13
+2024-06-04 01:41:00.120240,Laptop Stand,Furniture,East,Customer 3866,4,330.5
+2024-06-04 19:14:18.517034,USB-C Hub,Accessories,Central,Customer 4850,2,114.93
+2024-06-05 12:47:36.913827,Noise Cancelling Headphones,Electronics,East,Customer 2333,4,59.71
+2024-06-06 06:20:55.310621,Desk Lamp,Furniture,North,Customer 8715,5,755.98
+2024-06-06 23:54:13.707414,USB-C Hub,Accessories,East,Customer 8101,3,147.29
+2024-06-07 17:27:32.104208,USB-C Hub,Accessories,South,Customer 8617,2,27.64
+2024-06-08 11:00:50.501002,Wireless Mouse,Accessories,North,Customer 1060,1,15.57
+2024-06-09 04:34:08.897795,Laptop Stand,Furniture,East,Customer 2252,1,108.06
+2024-06-09 22:07:27.294589,USB-C Hub,Accessories,East,Customer 5090,2,98.32
+2024-06-10 15:40:45.691382,Wireless Mouse,Accessories,North,Customer 8982,2,27.52
+2024-06-11 09:14:04.088176,Noise Cancelling Headphones,Electronics,Central,Customer 2750,3,470.17
+2024-06-12 02:47:22.484969,Noise Cancelling Headphones,Electronics,North,Customer 6387,1,23.61
+2024-06-12 20:20:40.881763,Laptop Stand,Furniture,South,Customer 9238,1,54.53
+2024-06-13 13:53:59.278557,Noise Cancelling Headphones,Electronics,South,Customer 8124,1,119.36
+2024-06-14 07:27:17.675350,Desk Lamp,Furniture,North,Customer 9007,5,656.53
+2024-06-15 01:00:36.072144,Desk Lamp,Furniture,West,Customer 4042,5,120.48
+2024-06-15 18:33:54.468937,Laptop Stand,Furniture,East,Customer 3667,1,83.17
+2024-06-16 12:07:12.865731,Laptop Stand,Furniture,East,Customer 3983,3,177.88
+2024-06-17 05:40:31.262525,Desk Lamp,Furniture,North,Customer 6468,4,495.52
+2024-06-17 23:13:49.659318,Webcam HD,Electronics,Central,Customer 9502,2,29.77
+2024-06-18 16:47:08.056112,Laptop Stand,Furniture,Central,Customer 4810,3,329.04
+2024-06-19 10:20:26.452905,Monitor Arm,Furniture,North,Customer 9436,4,239.03
+2024-06-20 03:53:44.849699,Noise Cancelling Headphones,Electronics,North,Customer 5361,4,440.8
+2024-06-20 21:27:03.246492,Desk Lamp,Furniture,North,Customer 4760,4,221.3
+2024-06-21 15:00:21.643286,Monitor Arm,Furniture,South,Customer 5388,2,81.76
+2024-06-22 08:33:40.040080,Wireless Mouse,Accessories,North,Customer 5494,5,439.59
+2024-06-23 02:06:58.436873,Noise Cancelling Headphones,Electronics,East,Customer 2828,4,190.31
+2024-06-23 19:40:16.833667,USB-C Hub,Accessories,East,Customer 2868,4,395.22
+2024-06-24 13:13:35.230460,Desk Lamp,Furniture,East,Customer 8827,4,192.16
+2024-06-25 06:46:53.627254,Monitor Arm,Furniture,Central,Customer 2389,5,165.57
+2024-06-26 00:20:12.024048,Laptop Stand,Furniture,North,Customer 7402,1,26.63
+2024-06-26 17:53:30.420841,Webcam HD,Electronics,North,Customer 2913,5,452.25
+2024-06-27 11:26:48.817635,USB-C Hub,Accessories,South,Customer 8312,2,65.15
+2024-06-28 05:00:07.214428,Noise Cancelling Headphones,Electronics,Central,Customer 8287,3,283.39
+2024-06-28 22:33:25.611222,Wireless Mouse,Accessories,Central,Customer 2290,1,48.4
+2024-06-29 16:06:44.008016,USB-C Hub,Accessories,Central,Customer 2218,3,147.3
+2024-06-30 09:40:02.404809,Mechanical Keyboard,Accessories,North,Customer 1954,2,28.69
+2024-07-01 03:13:20.801603,Mechanical Keyboard,Accessories,South,Customer 9228,3,169.93
+2024-07-01 20:46:39.198396,Webcam HD,Electronics,Central,Customer 6233,4,239.77
+2024-07-02 14:19:57.595190,Noise Cancelling Headphones,Electronics,South,Customer 2591,5,180.67
+2024-07-03 07:53:15.991983,Noise Cancelling Headphones,Electronics,Central,Customer 2312,3,193.63
+2024-07-04 01:26:34.388777,USB-C Hub,Accessories,East,Customer 2704,4,58.01
+2024-07-04 18:59:52.785571,Webcam HD,Electronics,South,Customer 5286,1,62.39
+2024-07-05 12:33:11.182364,Mechanical Keyboard,Accessories,Central,Customer 3808,5,158.52
+2024-07-06 06:06:29.579158,Desk Lamp,Furniture,East,Customer 4741,2,54.09
+2024-07-06 23:39:47.975951,Laptop Stand,Furniture,Central,Customer 1294,4,93.86
+2024-07-07 17:13:06.372745,Webcam HD,Electronics,North,Customer 3064,3,41.54
+2024-07-08 10:46:24.769539,Laptop Stand,Furniture,Central,Customer 2007,4,552.84
+2024-07-09 04:19:43.166332,Monitor Arm,Furniture,South,Customer 2435,2,30.8
+2024-07-09 21:53:01.563126,Monitor Arm,Furniture,West,Customer 8059,5,311.27
+2024-07-10 15:26:19.959919,Laptop Stand,Furniture,North,Customer 9073,4,139.26
+2024-07-11 08:59:38.356713,Monitor Arm,Furniture,East,Customer 7353,2,322.29
+2024-07-12 02:32:56.753507,Noise Cancelling Headphones,Electronics,West,Customer 9954,5,208.35
+2024-07-12 20:06:15.150300,Webcam HD,Electronics,Central,Customer 8813,4,467.7
+2024-07-13 13:39:33.547094,Noise Cancelling Headphones,Electronics,South,Customer 4356,3,114.33
+2024-07-14 07:12:51.943887,USB-C Hub,Accessories,Central,Customer 2098,5,70.81
+2024-07-15 00:46:10.340681,Laptop Stand,Furniture,East,Customer 6658,4,386.5
+2024-07-15 18:19:28.737474,Monitor Arm,Furniture,West,Customer 1988,4,653.23
+2024-07-16 11:52:47.134268,Noise Cancelling Headphones,Electronics,West,Customer 2682,5,167.1
+2024-07-17 05:26:05.531062,USB-C Hub,Accessories,South,Customer 1933,3,42.57
+2024-07-17 22:59:23.927855,Webcam HD,Electronics,North,Customer 9984,3,469.34
+2024-07-18 16:32:42.324649,Laptop Stand,Furniture,East,Customer 2607,4,559.11
+2024-07-19 10:06:00.721442,Wireless Mouse,Accessories,Central,Customer 9711,1,63.25
+2024-07-20 03:39:19.118236,Monitor Arm,Furniture,East,Customer 1959,2,86.3
+2024-07-20 21:12:37.515030,Noise Cancelling Headphones,Electronics,East,Customer 8725,4,99.24
+2024-07-21 14:45:55.911823,Monitor Arm,Furniture,West,Customer 2875,1,88.75
+2024-07-22 08:19:14.308617,Monitor Arm,Furniture,Central,Customer 1116,1,45.81
+2024-07-23 01:52:32.705410,Noise Cancelling Headphones,Electronics,Central,Customer 5167,3,446.81
+2024-07-23 19:25:51.102204,Monitor Arm,Furniture,East,Customer 6420,2,189.25
+2024-07-24 12:59:09.498997,Mechanical Keyboard,Accessories,East,Customer 1213,1,157.47
+2024-07-25 06:32:27.895791,Wireless Mouse,Accessories,North,Customer 4117,1,41.78
+2024-07-26 00:05:46.292585,Noise Cancelling Headphones,Electronics,North,Customer 9905,4,189.93
+2024-07-26 17:39:04.689378,Laptop Stand,Furniture,South,Customer 7368,4,55.05
+2024-07-27 11:12:23.086172,Webcam HD,Electronics,West,Customer 8833,1,58.76
+2024-07-28 04:45:41.482965,Laptop Stand,Furniture,South,Customer 4041,2,163.48
+2024-07-28 22:18:59.879759,Mechanical Keyboard,Accessories,East,Customer 9508,1,156.19
+2024-07-29 15:52:18.276553,Monitor Arm,Furniture,North,Customer 1552,1,93.76
+2024-07-30 09:25:36.673346,Noise Cancelling Headphones,Electronics,West,Customer 9442,2,89.72
+2024-07-31 02:58:55.070140,USB-C Hub,Accessories,West,Customer 1021,4,594.28
+2024-07-31 20:32:13.466933,USB-C Hub,Accessories,South,Customer 5109,1,41.23
+2024-08-01 14:05:31.863727,Monitor Arm,Furniture,West,Customer 2560,4,515.69
+2024-08-02 07:38:50.260521,Laptop Stand,Furniture,West,Customer 5780,3,337.11
+2024-08-03 01:12:08.657314,Desk Lamp,Furniture,East,Customer 8979,5,606.64
+2024-08-03 18:45:27.054108,Laptop Stand,Furniture,Central,Customer 9503,3,295.64
+2024-08-04 12:18:45.450901,USB-C Hub,Accessories,East,Customer 7236,4,98.37
+2024-08-05 05:52:03.847695,Desk Lamp,Furniture,West,Customer 8005,1,131.06
+2024-08-05 23:25:22.244488,Laptop Stand,Furniture,West,Customer 4453,5,823.15
+2024-08-06 16:58:40.641282,Noise Cancelling Headphones,Electronics,East,Customer 5703,2,30.53
+2024-08-07 10:31:59.038076,Laptop Stand,Furniture,West,Customer 2394,5,119.6
+2024-08-08 04:05:17.434869,Webcam HD,Electronics,Central,Customer 1529,4,143.68
+2024-08-08 21:38:35.831663,Desk Lamp,Furniture,South,Customer 4591,1,34.34
+2024-08-09 15:11:54.228456,Monitor Arm,Furniture,South,Customer 1374,2,88.43
+2024-08-10 08:45:12.625250,Monitor Arm,Furniture,West,Customer 2646,5,76.39
+2024-08-11 02:18:31.022044,Desk Lamp,Furniture,South,Customer 4814,1,41.97
+2024-08-11 19:51:49.418837,USB-C Hub,Accessories,West,Customer 3113,1,16.07
+2024-08-12 13:25:07.815631,Webcam HD,Electronics,West,Customer 8062,1,148.61
+2024-08-13 06:58:26.212424,USB-C Hub,Accessories,South,Customer 6724,2,67.72
+2024-08-14 00:31:44.609218,Monitor Arm,Furniture,Central,Customer 6895,1,15.35
+2024-08-14 18:05:03.006012,Wireless Mouse,Accessories,West,Customer 4192,1,153.17
+2024-08-15 11:38:21.402805,Desk Lamp,Furniture,Central,Customer 4568,5,234.24
+2024-08-16 05:11:39.799599,Noise Cancelling Headphones,Electronics,West,Customer 2274,4,442.74
+2024-08-16 22:44:58.196392,Laptop Stand,Furniture,Central,Customer 1281,2,27.24
+2024-08-17 16:18:16.593186,Desk Lamp,Furniture,Central,Customer 6178,3,260.07
+2024-08-18 09:51:34.989979,Wireless Mouse,Accessories,West,Customer 5585,3,264.46
+2024-08-19 03:24:53.386773,Laptop Stand,Furniture,South,Customer 8473,3,114.94
+2024-08-19 20:58:11.783567,Desk Lamp,Furniture,West,Customer 7294,3,67.95
+2024-08-20 14:31:30.180360,Webcam HD,Electronics,South,Customer 1891,4,620.81
+2024-08-21 08:04:48.577154,Laptop Stand,Furniture,Central,Customer 8519,5,71.02
+2024-08-22 01:38:06.973947,Desk Lamp,Furniture,South,Customer 7089,2,27.11
+2024-08-22 19:11:25.370741,Laptop Stand,Furniture,North,Customer 1986,1,27.15
+2024-08-23 12:44:43.767535,Monitor Arm,Furniture,North,Customer 4124,4,62.0
+2024-08-24 06:18:02.164328,Wireless Mouse,Accessories,West,Customer 5033,2,197.98
+2024-08-24 23:51:20.561122,Monitor Arm,Furniture,North,Customer 6208,1,16.11
+2024-08-25 17:24:38.957915,Wireless Mouse,Accessories,North,Customer 8114,5,322.71
+2024-08-26 10:57:57.354709,Webcam HD,Electronics,East,Customer 4553,4,378.88
+2024-08-27 04:31:15.751503,Wireless Mouse,Accessories,East,Customer 4712,3,166.33
+2024-08-27 22:04:34.148296,Monitor Arm,Furniture,North,Customer 5806,1,60.76
+2024-08-28 15:37:52.545090,USB-C Hub,Accessories,North,Customer 2440,4,227.4
+2024-08-29 09:11:10.941883,Wireless Mouse,Accessories,South,Customer 8010,3,126.05
+2024-08-30 02:44:29.338677,Monitor Arm,Furniture,North,Customer 7228,2,53.63
+2024-08-30 20:17:47.735470,Noise Cancelling Headphones,Electronics,West,Customer 2177,2,165.92
+2024-08-31 13:51:06.132264,Webcam HD,Electronics,Central,Customer 9234,2,315.89
+2024-09-01 07:24:24.529058,Monitor Arm,Furniture,East,Customer 7570,2,81.33
+2024-09-02 00:57:42.925851,Desk Lamp,Furniture,Central,Customer 6243,3,392.74
+2024-09-02 18:31:01.322645,Mechanical Keyboard,Accessories,West,Customer 1140,3,101.88
+2024-09-03 12:04:19.719438,Laptop Stand,Furniture,Central,Customer 4610,5,244.33
+2024-09-04 05:37:38.116232,Mechanical Keyboard,Accessories,South,Customer 6539,3,469.59
+2024-09-04 23:10:56.513026,Laptop Stand,Furniture,West,Customer 3137,1,55.46
+2024-09-05 16:44:14.909819,USB-C Hub,Accessories,Central,Customer 4654,4,95.91
+2024-09-06 10:17:33.306613,Wireless Mouse,Accessories,South,Customer 6047,2,131.11
+2024-09-07 03:50:51.703406,Mechanical Keyboard,Accessories,Central,Customer 7284,1,45.91
+2024-09-07 21:24:10.100200,Monitor Arm,Furniture,West,Customer 4097,5,424.08
+2024-09-08 14:57:28.496993,Laptop Stand,Furniture,Central,Customer 7295,2,29.12
+2024-09-09 08:30:46.893787,Laptop Stand,Furniture,West,Customer 7807,3,191.61
+2024-09-10 02:04:05.290581,Mechanical Keyboard,Accessories,South,Customer 6010,2,30.74
+2024-09-10 19:37:23.687374,Wireless Mouse,Accessories,North,Customer 1482,2,128.86
+2024-09-11 13:10:42.084168,Wireless Mouse,Accessories,Central,Customer 1987,5,70.59
+2024-09-12 06:44:00.480961,USB-C Hub,Accessories,Central,Customer 7652,2,27.35
+2024-09-13 00:17:18.877755,Wireless Mouse,Accessories,East,Customer 5358,2,311.71
+2024-09-13 17:50:37.274549,USB-C Hub,Accessories,Central,Customer 7602,2,197.69
+2024-09-14 11:23:55.671342,Mechanical Keyboard,Accessories,South,Customer 2125,3,137.12
+2024-09-15 04:57:14.068136,Desk Lamp,Furniture,West,Customer 8843,5,422.27
+2024-09-15 22:30:32.464929,Noise Cancelling Headphones,Electronics,North,Customer 1707,1,34.6
+2024-09-16 16:03:50.861723,Mechanical Keyboard,Accessories,Central,Customer 3475,2,85.21
+2024-09-17 09:37:09.258517,Webcam HD,Electronics,West,Customer 3428,2,69.4
+2024-09-18 03:10:27.655310,Monitor Arm,Furniture,West,Customer 3817,2,233.42
+2024-09-18 20:43:46.052104,USB-C Hub,Accessories,West,Customer 1661,2,242.99
+2024-09-19 14:17:04.448897,Mechanical Keyboard,Accessories,Central,Customer 4374,5,282.06
+2024-09-20 07:50:22.845691,Noise Cancelling Headphones,Electronics,North,Customer 4083,2,174.51
+2024-09-21 01:23:41.242484,Mechanical Keyboard,Accessories,Central,Customer 8446,4,137.18
+2024-09-21 18:56:59.639278,Noise Cancelling Headphones,Electronics,West,Customer 3368,5,240.39
+2024-09-22 12:30:18.036072,Webcam HD,Electronics,South,Customer 5895,4,333.2
+2024-09-23 06:03:36.432865,Noise Cancelling Headphones,Electronics,West,Customer 3785,4,328.54
+2024-09-23 23:36:54.829659,Mechanical Keyboard,Accessories,South,Customer 3408,1,110.1
+2024-09-24 17:10:13.226452,USB-C Hub,Accessories,North,Customer 6962,1,15.98
+2024-09-25 10:43:31.623246,Monitor Arm,Furniture,South,Customer 5406,2,83.91
+2024-09-26 04:16:50.020040,Monitor Arm,Furniture,West,Customer 9435,3,339.01
+2024-09-26 21:50:08.416833,Desk Lamp,Furniture,South,Customer 6548,1,24.4
+2024-09-27 15:23:26.813627,Noise Cancelling Headphones,Electronics,East,Customer 8693,2,164.91
+2024-09-28 08:56:45.210420,Webcam HD,Electronics,East,Customer 5225,3,70.85
+2024-09-29 02:30:03.607214,Monitor Arm,Furniture,South,Customer 6656,4,101.5
+2024-09-29 20:03:22.004008,Webcam HD,Electronics,North,Customer 5917,1,47.96
+2024-09-30 13:36:40.400801,Mechanical Keyboard,Accessories,North,Customer 8045,3,97.57
+2024-10-01 07:09:58.797595,Webcam HD,Electronics,Central,Customer 8137,2,300.37
+2024-10-02 00:43:17.194388,Desk Lamp,Furniture,West,Customer 8179,4,262.36
+2024-10-02 18:16:35.591182,Noise Cancelling Headphones,Electronics,West,Customer 6777,4,229.33
+2024-10-03 11:49:53.987975,Desk Lamp,Furniture,South,Customer 6179,5,170.27
+2024-10-04 05:23:12.384769,Desk Lamp,Furniture,East,Customer 7488,3,164.09
+2024-10-04 22:56:30.781563,USB-C Hub,Accessories,North,Customer 6078,2,113.74
+2024-10-05 16:29:49.178356,USB-C Hub,Accessories,West,Customer 7406,5,77.88
+2024-10-06 10:03:07.575150,Mechanical Keyboard,Accessories,West,Customer 2638,1,42.56
+2024-10-07 03:36:25.971943,Webcam HD,Electronics,Central,Customer 1419,4,180.97
+2024-10-07 21:09:44.368737,Desk Lamp,Furniture,Central,Customer 8870,2,237.59
+2024-10-08 14:43:02.765531,Webcam HD,Electronics,East,Customer 2549,3,336.74
+2024-10-09 08:16:21.162324,Webcam HD,Electronics,South,Customer 8898,5,442.67
+2024-10-10 01:49:39.559118,Monitor Arm,Furniture,South,Customer 7007,5,125.88
+2024-10-10 19:22:57.955911,Wireless Mouse,Accessories,South,Customer 9433,5,307.76
+2024-10-11 12:56:16.352705,Webcam HD,Electronics,Central,Customer 1671,2,119.71
+2024-10-12 06:29:34.749498,USB-C Hub,Accessories,East,Customer 5798,1,44.99
+2024-10-13 00:02:53.146292,Noise Cancelling Headphones,Electronics,West,Customer 9737,5,120.62
+2024-10-13 17:36:11.543086,Mechanical Keyboard,Accessories,East,Customer 4493,2,293.54
+2024-10-14 11:09:29.939879,Laptop Stand,Furniture,North,Customer 1016,5,77.38
+2024-10-15 04:42:48.336673,Wireless Mouse,Accessories,West,Customer 4631,1,23.77
+2024-10-15 22:16:06.733466,Laptop Stand,Furniture,West,Customer 3279,2,49.61
+2024-10-16 15:49:25.130260,USB-C Hub,Accessories,East,Customer 7869,2,308.2
+2024-10-17 09:22:43.527054,Desk Lamp,Furniture,Central,Customer 8083,1,45.11
+2024-10-18 02:56:01.923847,Webcam HD,Electronics,North,Customer 4456,5,685.81
+2024-10-18 20:29:20.320641,Noise Cancelling Headphones,Electronics,North,Customer 2668,3,450.77
+2024-10-19 14:02:38.717434,Noise Cancelling Headphones,Electronics,West,Customer 5531,2,253.18
+2024-10-20 07:35:57.114228,Desk Lamp,Furniture,East,Customer 9964,3,139.33
+2024-10-21 01:09:15.511022,Noise Cancelling Headphones,Electronics,West,Customer 8504,2,172.64
+2024-10-21 18:42:33.907815,Noise Cancelling Headphones,Electronics,South,Customer 2827,1,15.35
+2024-10-22 12:15:52.304609,Monitor Arm,Furniture,North,Customer 9569,1,14.93
+2024-10-23 05:49:10.701402,Desk Lamp,Furniture,Central,Customer 4747,2,47.93
+2024-10-23 23:22:29.098196,Noise Cancelling Headphones,Electronics,Central,Customer 7303,2,188.93
+2024-10-24 16:55:47.494989,Noise Cancelling Headphones,Electronics,East,Customer 1521,4,96.77
+2024-10-25 10:29:05.891783,Noise Cancelling Headphones,Electronics,North,Customer 6784,2,234.05
+2024-10-26 04:02:24.288577,Monitor Arm,Furniture,North,Customer 3461,4,108.57
+2024-10-26 21:35:42.685370,Mechanical Keyboard,Accessories,North,Customer 8031,3,296.59
+2024-10-27 15:09:01.082164,Laptop Stand,Furniture,North,Customer 8697,1,46.22
+2024-10-28 08:42:19.478957,Monitor Arm,Furniture,West,Customer 9789,5,472.79
+2024-10-29 02:15:37.875751,Wireless Mouse,Accessories,Central,Customer 4537,4,221.18
+2024-10-29 19:48:56.272545,Webcam HD,Electronics,South,Customer 5082,4,130.22
+2024-10-30 13:22:14.669338,Mechanical Keyboard,Accessories,East,Customer 2724,5,471.91
+2024-10-31 06:55:33.066132,USB-C Hub,Accessories,Central,Customer 6926,3,365.56
+2024-11-01 00:28:51.462925,Wireless Mouse,Accessories,South,Customer 8353,5,541.12
+2024-11-01 18:02:09.859719,Wireless Mouse,Accessories,East,Customer 1448,4,229.34
+2024-11-02 11:35:28.256513,USB-C Hub,Accessories,East,Customer 3520,2,50.55
+2024-11-03 05:08:46.653306,Noise Cancelling Headphones,Electronics,South,Customer 3159,3,110.96
+2024-11-03 22:42:05.050100,Mechanical Keyboard,Accessories,South,Customer 3649,4,384.48
+2024-11-04 16:15:23.446893,Mechanical Keyboard,Accessories,North,Customer 4489,1,94.66
+2024-11-05 09:48:41.843687,Mechanical Keyboard,Accessories,East,Customer 8902,3,432.5
+2024-11-06 03:22:00.240480,Noise Cancelling Headphones,Electronics,South,Customer 3179,3,175.87
+2024-11-06 20:55:18.637274,Mechanical Keyboard,Accessories,East,Customer 8321,4,97.83
+2024-11-07 14:28:37.034068,Webcam HD,Electronics,West,Customer 2080,5,122.19
+2024-11-08 08:01:55.430861,Wireless Mouse,Accessories,East,Customer 5431,4,226.82
+2024-11-09 01:35:13.827655,Mechanical Keyboard,Accessories,South,Customer 1593,4,612.26
+2024-11-09 19:08:32.224448,Mechanical Keyboard,Accessories,North,Customer 4390,4,128.16
+2024-11-10 12:41:50.621242,Monitor Arm,Furniture,South,Customer 6093,5,211.94
+2024-11-11 06:15:09.018036,Mechanical Keyboard,Accessories,Central,Customer 6469,3,434.54
+2024-11-11 23:48:27.414829,Desk Lamp,Furniture,West,Customer 2136,1,25.49
+2024-11-12 17:21:45.811623,USB-C Hub,Accessories,West,Customer 6237,3,46.28
+2024-11-13 10:55:04.208416,Wireless Mouse,Accessories,East,Customer 9590,4,176.76
+2024-11-14 04:28:22.605210,Monitor Arm,Furniture,North,Customer 4471,4,131.68
+2024-11-14 22:01:41.002004,Mechanical Keyboard,Accessories,South,Customer 6068,5,130.01
+2024-11-15 15:34:59.398797,Monitor Arm,Furniture,North,Customer 9186,5,431.89
+2024-11-16 09:08:17.795591,Webcam HD,Electronics,East,Customer 6017,3,80.59
+2024-11-17 02:41:36.192384,Webcam HD,Electronics,North,Customer 9895,5,224.23
+2024-11-17 20:14:54.589178,Monitor Arm,Furniture,South,Customer 3978,2,88.86
+2024-11-18 13:48:12.985971,Wireless Mouse,Accessories,North,Customer 1685,4,367.94
+2024-11-19 07:21:31.382765,Mechanical Keyboard,Accessories,West,Customer 7868,1,109.65
+2024-11-20 00:54:49.779559,Mechanical Keyboard,Accessories,West,Customer 5998,2,170.89
+2024-11-20 18:28:08.176352,Mechanical Keyboard,Accessories,South,Customer 8896,2,316.6
+2024-11-21 12:01:26.573146,Mechanical Keyboard,Accessories,West,Customer 3643,1,61.44
+2024-11-22 05:34:44.969939,USB-C Hub,Accessories,West,Customer 1689,1,58.93
+2024-11-22 23:08:03.366733,Desk Lamp,Furniture,East,Customer 2171,2,277.68
+2024-11-23 16:41:21.763527,Noise Cancelling Headphones,Electronics,South,Customer 3539,5,132.19
+2024-11-24 10:14:40.160320,Monitor Arm,Furniture,South,Customer 7164,1,57.08
+2024-11-25 03:47:58.557114,USB-C Hub,Accessories,North,Customer 2938,2,115.41
+2024-11-25 21:21:16.953907,Webcam HD,Electronics,Central,Customer 9616,4,54.26
+2024-11-26 14:54:35.350701,Webcam HD,Electronics,South,Customer 1597,4,485.88
+2024-11-27 08:27:53.747494,Wireless Mouse,Accessories,South,Customer 7171,5,313.37
+2024-11-28 02:01:12.144288,Wireless Mouse,Accessories,South,Customer 2517,1,14.87
+2024-11-28 19:34:30.541082,Wireless Mouse,Accessories,Central,Customer 2537,2,123.94
+2024-11-29 13:07:48.937875,Wireless Mouse,Accessories,South,Customer 4750,2,50.45
+2024-11-30 06:41:07.334669,Noise Cancelling Headphones,Electronics,South,Customer 1610,4,127.45
+2024-12-01 00:14:25.731462,Desk Lamp,Furniture,Central,Customer 6774,1,141.15
+2024-12-01 17:47:44.128256,Webcam HD,Electronics,East,Customer 8548,4,178.24
+2024-12-02 11:21:02.525050,Laptop Stand,Furniture,North,Customer 3113,4,91.3
+2024-12-03 04:54:20.921843,Monitor Arm,Furniture,West,Customer 8264,3,440.17
+2024-12-03 22:27:39.318637,USB-C Hub,Accessories,North,Customer 3426,4,468.52
+2024-12-04 16:00:57.715430,USB-C Hub,Accessories,East,Customer 3551,5,164.04
+2024-12-05 09:34:16.112224,Noise Cancelling Headphones,Electronics,North,Customer 9676,4,184.84
+2024-12-06 03:07:34.509018,Desk Lamp,Furniture,South,Customer 7971,1,124.7
+2024-12-06 20:40:52.905811,Mechanical Keyboard,Accessories,East,Customer 1258,2,259.06
+2024-12-07 14:14:11.302605,USB-C Hub,Accessories,North,Customer 6110,1,42.16
+2024-12-08 07:47:29.699398,Webcam HD,Electronics,East,Customer 9804,4,592.84
+2024-12-09 01:20:48.096192,Monitor Arm,Furniture,North,Customer 8183,3,493.96
+2024-12-09 18:54:06.492985,Webcam HD,Electronics,Central,Customer 8329,5,279.96
+2024-12-10 12:27:24.889779,Monitor Arm,Furniture,East,Customer 9438,2,222.23
+2024-12-11 06:00:43.286573,Webcam HD,Electronics,North,Customer 4864,1,37.26
+2024-12-11 23:34:01.683366,Laptop Stand,Furniture,Central,Customer 1264,5,186.17
+2024-12-12 17:07:20.080160,Laptop Stand,Furniture,West,Customer 8544,3,134.22
+2024-12-13 10:40:38.476953,Desk Lamp,Furniture,North,Customer 1587,4,174.07
+2024-12-14 04:13:56.873747,Laptop Stand,Furniture,South,Customer 9381,5,234.86
+2024-12-14 21:47:15.270541,USB-C Hub,Accessories,North,Customer 7450,4,99.01
+2024-12-15 15:20:33.667334,Laptop Stand,Furniture,North,Customer 7980,3,47.76
+2024-12-16 08:53:52.064128,Monitor Arm,Furniture,North,Customer 9915,3,110.03
+2024-12-17 02:27:10.460921,Laptop Stand,Furniture,West,Customer 2958,2,65.34
+2024-12-17 20:00:28.857715,Mechanical Keyboard,Accessories,East,Customer 7659,4,64.4
+2024-12-18 13:33:47.254509,Desk Lamp,Furniture,North,Customer 1948,5,180.36
+2024-12-19 07:07:05.651302,Monitor Arm,Furniture,North,Customer 5646,4,191.07
+2024-12-20 00:40:24.048096,Mechanical Keyboard,Accessories,South,Customer 2138,5,648.86
+2024-12-20 18:13:42.444889,USB-C Hub,Accessories,East,Customer 4674,3,352.06
+2024-12-21 11:47:00.841683,Monitor Arm,Furniture,East,Customer 6661,4,254.51
+2024-12-22 05:20:19.238476,USB-C Hub,Accessories,North,Customer 1423,4,62.88
+2024-12-22 22:53:37.635270,Laptop Stand,Furniture,East,Customer 3946,1,36.78
+2024-12-23 16:26:56.032064,Wireless Mouse,Accessories,Central,Customer 8230,4,182.13
+2024-12-24 10:00:14.428857,Mechanical Keyboard,Accessories,East,Customer 3990,1,44.55
+2024-12-25 03:33:32.825651,Noise Cancelling Headphones,Electronics,West,Customer 1285,5,272.77
+2024-12-25 21:06:51.222444,Wireless Mouse,Accessories,East,Customer 2762,4,56.72
+2024-12-26 14:40:09.619238,Monitor Arm,Furniture,East,Customer 9259,1,48.4
+2024-12-27 08:13:28.016032,Laptop Stand,Furniture,North,Customer 4198,1,61.51
+2024-12-28 01:46:46.412825,Noise Cancelling Headphones,Electronics,North,Customer 3479,5,408.12
+2024-12-28 19:20:04.809619,USB-C Hub,Accessories,South,Customer 2492,3,451.93
+2024-12-29 12:53:23.206412,Webcam HD,Electronics,East,Customer 8851,4,221.52
+2024-12-30 06:26:41.603206,Webcam HD,Electronics,North,Customer 5577,1,64.55
+2024-12-31 00:00:00.000000,Wireless Mouse,Accessories,West,Customer 7581,5,592.15
