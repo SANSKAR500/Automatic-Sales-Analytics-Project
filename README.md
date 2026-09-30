@@ -1,5 +1,5 @@
 # Automatic Sales Analytics Project
-
+https://automatic-sales-analytics-project-lcvpyi3ql5pynw6gzdnkup.streamlit.app/
 Upload any sales CSV/Excel file → it gets auto-cleaned → you get KPIs,
 charts, and a written report. Works as a Streamlit dashboard or a
 Jupyter notebook.
